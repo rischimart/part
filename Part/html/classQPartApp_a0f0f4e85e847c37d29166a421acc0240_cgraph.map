@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classQPartApp.html#ac283eeab88cd4159cc3b1b529be775b2" title="QPartApp::slotEditCopy" alt="" coords="221,5,384,35"/>
+<area shape="rect" id="node5" href="$classQPartApp.html#a4ee49b04a7b384913fc04896cccfa993" title="QPartApp::slotEditCut" alt="" coords="227,59,379,88"/>
+<area shape="rect" id="node7" href="$classQPartApp.html#afb7871472ea58a9f8e2f1159b60aa560" title="QPartApp::slotEditPaste" alt="" coords="220,112,385,141"/>
+<area shape="rect" id="node9" href="$classQPartApp.html#a811958a57aa8e0d4297508eb4fc15409" title="QPartApp::slotFileClose" alt="" coords="221,165,384,195"/>
+<area shape="rect" id="node11" href="$classQPartApp.html#ae58c11c19bbbfc281cfeded8945b8a70" title="QPartApp::slotFileNew" alt="" coords="225,219,380,248"/>
+<area shape="rect" id="node13" href="$classQPartApp.html#af440be33a362ecf1b0ac35902e1eaf80" title="QPartApp::slotFileOpen" alt="" coords="223,272,383,301"/>
+<area shape="rect" id="node15" href="$classQPartApp.html#a77761390184d528769cb9d18fa2b2cc9" title="QPartApp::slotFilePrint" alt="" coords="225,325,380,355"/>
+<area shape="rect" id="node17" href="$classQPartApp.html#af089ea4801d8e30fa3a322e0a6c80c84" title="QPartApp::slotFileQuit" alt="" coords="227,379,379,408"/>
+<area shape="rect" id="node21" href="$classQPartApp.html#a38699e609b07e256c6e2cde56ad43880" title="QPartApp::slotFileSave" alt="" coords="224,432,381,461"/>
+<area shape="rect" id="node23" href="$classQPartApp.html#a8814ecfdbac3a131b75fad9f9cc402a5" title="QPartApp::slotHelpAbout" alt="" coords="219,485,387,515"/>
+<area shape="rect" id="node25" href="$classQPartApp.html#a8e8c5400f7d9512d176a07b5c92f9ed4" title="QPartApp::slotPartConstraints" alt="" coords="204,539,401,568"/>
+<area shape="rect" id="node27" href="$classQPartApp.html#a3951a0932573e7edbe25e49ac92ab070" title="QPartApp::slotPartRun" alt="" coords="225,592,380,621"/>
+<area shape="rect" id="node33" href="$classQPartApp.html#aa23d630eecb13aaa3f73ea9b70742b1d" title="QPartApp::slotViewStatusBar" alt="" coords="205,645,400,675"/>
+<area shape="rect" id="node35" href="$classQPartApp.html#a67b2465ce2b79f78962fdadd85617c80" title="QPartApp::slotViewToolBar" alt="" coords="212,699,393,728"/>
+<area shape="rect" id="node19" href="$classQPartApp.html#a876ac75f2fdec93b732a29ccaa701f72" title="QPartApp::queryExit" alt="" coords="468,379,609,408"/>
+<area shape="rect" id="node29" href="$classNetlistBase.html#a5cad2099d910167d12fc10c54dbb23ff" title="NetlistBase::cutCost" alt="" coords="467,565,611,595"/>
+<area shape="rect" id="node31" href="$classNetlistBase.html#a9ae3f0409e1e9514b98748384e3d539c" title="NetlistBase::getNumCells" alt="" coords="452,619,625,648"/>
+</map>

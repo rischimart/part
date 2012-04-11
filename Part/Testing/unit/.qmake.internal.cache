@@ -1,0 +1,15 @@
+[check]
+QMAKE_CACHE_VERSION = 1.03a
+QMAKE_ABSOLUTE_SOURCE_PATH = 
+MOC_DIR = 
+UI_DIR = 
+UI_HEADERS_DIR = 
+UI_SOURCES_DIR = 
+[depend]
+ExampleTestCase.cpp = ExampleTestCase.h
+ExampleTestCase.h = 
+Main.cpp = 
+[mocable]
+ExampleTestCase.h = *qmake_ignore*
+ExampleTestCase.cpp = *qmake_ignore*
+Main.cpp = *qmake_ignore*

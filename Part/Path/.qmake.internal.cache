@@ -1,0 +1,21 @@
+[check]
+QMAKE_CACHE_VERSION = 1.03a
+QMAKE_ABSOLUTE_SOURCE_PATH = 
+MOC_DIR = 
+UI_DIR = 
+UI_HEADERS_DIR = 
+UI_SOURCES_DIR = 
+[depend]
+CycleRemovalServ.cpp = CycleRemovalServ.hpp
+CycleRemovalServ.hpp = 
+LayerAssignmentServ.cpp = LayerAssignmentServ.hpp
+LayerAssignmentServ.hpp = 
+PathMgr.cpp = PathMgr.hpp CycleRemovalServ.hpp
+PathMgr.hpp = 
+[mocable]
+CycleRemovalServ.hpp = *qmake_ignore*
+LayerAssignmentServ.hpp = *qmake_ignore*
+PathMgr.hpp = *qmake_ignore*
+CycleRemovalServ.cpp = *qmake_ignore*
+LayerAssignmentServ.cpp = *qmake_ignore*
+PathMgr.cpp = *qmake_ignore*

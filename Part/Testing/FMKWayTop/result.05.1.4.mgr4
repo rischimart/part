@@ -1,0 +1,10 @@
+Compare single-bucket implementation with K-bucket implementation
+Balance tol = 0.05
+Number of starts = 20
+Number of partitions = 4
+Circuit & Cut(Min) & CPU(sec.) & Diff(%) & Cut(Min) & CPU(sec.) & Diff(%)  \\
+\hline %--------------------------------------------------------%
+ibm01 & 2466(3431.25) &  0.04 & 9.57  \\
+ibm02 & 3905(5781.40) &  0.13 & 7.73  \\
+ibm03 & 8284(10156.25) &  0.18 & 9.85  \\
+ibm04 & 6352(8397.20) &  0.18 & 9.85  \\

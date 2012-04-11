@@ -1,0 +1,19 @@
+[check]
+QMAKE_CACHE_VERSION = 1.03a
+QMAKE_ABSOLUTE_SOURCE_PATH = 
+MOC_DIR = 
+UI_DIR = 
+UI_HEADERS_DIR = 
+UI_SOURCES_DIR = 
+[depend]
+GBPQueue.hpp = GDList.hpp
+GBTree.cpp = GBTree.hpp GDList.hpp
+GBTree.hpp = GDList.hpp
+GDList.hpp = 
+GStack.hpp = 
+[mocable]
+GBPQueue.hpp = *qmake_ignore*
+GBTree.hpp = *qmake_ignore*
+GDList.hpp = *qmake_ignore*
+GStack.hpp = *qmake_ignore*
+GBTree.cpp = *qmake_ignore*

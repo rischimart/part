@@ -1,0 +1,13 @@
+[check]
+QMAKE_CACHE_VERSION = 1.03a
+QMAKE_ABSOLUTE_SOURCE_PATH = 
+MOC_DIR = 
+UI_DIR = 
+UI_HEADERS_DIR = 
+UI_SOURCES_DIR = 
+[depend]
+MPartMgr.cpp = MPartMgr.hpp
+MPartMgr.hpp = 
+[mocable]
+MPartMgr.hpp = *qmake_ignore*
+MPartMgr.cpp = *qmake_ignore*

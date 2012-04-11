@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structblock.html" title="{block\n|+ next\l+ idx\l+ size\l+ used\l+ content\l|}" alt="" coords="5,5,83,160"/>
+<area shape="rect" id="node5" href="$structlibavl__allocator.html" title="{libavl_allocator\n|+ libavl_malloc\l+ libavl_free\l|}" alt="" coords="156,31,265,134"/>
+</map>

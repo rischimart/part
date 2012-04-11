@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classGDListCursor.html" title="{GDListCursor\&lt; BPQNode \&gt;\n|&#45; _nil\l&#45; _cur\l|+ GDListCursor()\l+ GDListCursor()\l+ associate()\l+ hasNext()\l+ reset()\l+ getNext()\l}" alt="" coords="5,161,189,351"/>
+<area shape="rect" id="node4" href="$classGDList.html" title="{GDList\&lt; BPQNode \&gt;\n|&#45; _head\l&#45; _tail\l|+ GDList()\l+ isEmpty()\l+ clear()\l+ first()\l+ first()\l+ last()\l+ last()\l+ pushFront()\l+ pushBack()\l+ pushRandom()\l+ popFront()\l+ popBack()\l+ popFrontFast()\l+ popBackFast()\l+ concat()\l+ isValid()\l+ detach()\l&#45; GDList()\l&#45; makeDummy()\l&#45; operator=()\l&#45; nil()\l&#45; nil()\l* nil()\l* nil()\l}" alt="" coords="213,5,360,507"/>
+</map>

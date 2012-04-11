@@ -1,0 +1,19 @@
+[check]
+QMAKE_CACHE_VERSION = 1.03a
+QMAKE_ABSOLUTE_SOURCE_PATH = 
+MOC_DIR = 
+UI_DIR = 
+UI_HEADERS_DIR = 
+UI_SOURCES_DIR = 
+[depend]
+Cell.hpp = 
+Net.hpp = 
+Netlist.cpp = Netlist.hpp Pin.hpp Net.hpp Cell.hpp
+Netlist.hpp = Pin.hpp Net.hpp Cell.hpp
+Pin.hpp = 
+[mocable]
+Cell.hpp = *qmake_ignore*
+Net.hpp = *qmake_ignore*
+Netlist.hpp = *qmake_ignore*
+Pin.hpp = *qmake_ignore*
+Netlist.cpp = *qmake_ignore*

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classGDList.html" title="{GDList\&lt; GNode \&gt;\n|&#45; _head\l&#45; _tail\l|+ GDList()\l+ isEmpty()\l+ clear()\l+ first()\l+ first()\l+ last()\l+ last()\l+ pushFront()\l+ pushBack()\l+ pushRandom()\l+ popFront()\l+ popBack()\l+ popFrontFast()\l+ popBackFast()\l+ concat()\l+ isValid()\l+ detach()\l&#45; GDList()\l&#45; makeDummy()\l&#45; operator=()\l&#45; nil()\l&#45; nil()\l* nil()\l* nil()\l}" alt="" coords="5,243,133,744"/>
+<area shape="rect" id="node4" href="$classGNode.html" title="{GNode\n|+ _next\l+ _prev\l+ _key\l|+ GNode()\l+ getKey()\l+ setKey()\l}" alt="" coords="28,5,111,160"/>
+</map>

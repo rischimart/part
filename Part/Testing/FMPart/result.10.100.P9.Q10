@@ -1,0 +1,7 @@
+Compare single-bucket implementation with two-bucket implementation
+Balance tol = 0.1
+Number of starts = 100
+Circuit & Cut(Min) & CPU(sec.) & Diff(%) & Cut(Min) & CPU(sec.) & Diff(%)  \\
+\hline %--------------------------------------------------------%
+ibm01 &  373(656.96) &  0.51 & 10.00 &  296(499.89) &  0.64 & 7.81  \\
+ibm02 &  279(534.05) &  1.12 & 9.76 &  266(453.91) &  1.03 & 0.12  \\

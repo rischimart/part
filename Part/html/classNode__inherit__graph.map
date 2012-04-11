@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCell.html" title="{Cell\n|&#45; _weight\l&#45; _type\l&#45; _isVisited\l&#45; _isFixed\l&#45; _isLocked\l|+ Cell()\l+ getType()\l+ setCluster()\l+ isCluster()\l+ isPad()\l+ isFixed()\l+ setFixed()\l+ clrFixed()\l+ toggleFixed()\l+ isVisited()\l+ setVisited()\l+ clrVisited()\l+ toggleVisited()\l+ isLocked()\l+ lock()\l+ unlock()\l+ getWeight()\l+ setWeight()\l# setType()\l}" alt="" coords="5,192,123,659"/>
+<area shape="rect" id="node5" href="$classNet.html" title="{Net\n|&#45; _weight\l&#45; _isVisited\l&#45; _isFixed\l|+ Net()\l+ isFixed()\l+ setFixed()\l+ clrFixed()\l+ toggleFixed()\l+ isVisited()\l+ setVisited()\l+ clrVisited()\l+ toggleVisited()\l+ getWeight()\l+ setWeight()\l+ isHighFanout()\l}" alt="" coords="147,270,264,581"/>
+</map>

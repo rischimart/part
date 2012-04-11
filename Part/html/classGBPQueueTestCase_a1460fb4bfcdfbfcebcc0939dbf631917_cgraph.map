@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classGBPQueue.html#a162aca834ac46fd313c128e5a9a06b3f" title="GBPQueue::detach" alt="" coords="300,5,433,35"/>
+<area shape="rect" id="node7" href="$classGBPQueueCursor.html#a4b0bcdbf2902f051f84dabe921aa544a" title="GBPQueueCursor::getNext" alt="" coords="276,59,457,88"/>
+<area shape="rect" id="node9" href="$classGBPQueueCursor.html#a6092f4f9f95adff9c86d6c9cd320f2dd" title="GBPQueueCursor::hasNext" alt="" coords="275,112,459,141"/>
+<area shape="rect" id="node11" href="$classGBPQueue.html#a4e0fe34d4c17433968fc84adb6a3820c" title="GBPQueue::isEmpty" alt="" coords="295,165,439,195"/>
+<area shape="rect" id="node13" href="$classGBPQueue.html#aedc9f969d224c024104a9863a30ae6d6" title="Insert item at the end of this queue." alt="" coords="289,219,444,248"/>
+<area shape="rect" id="node5" href="$classGDList.html#a26eec3ff5320ce19418c017c1f4ed5ce" title="GDList::detach" alt="" coords="508,5,617,35"/>
+</map>

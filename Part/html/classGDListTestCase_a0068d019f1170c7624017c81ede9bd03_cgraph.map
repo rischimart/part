@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classGDList.html#a57af6126c923494a63d05256889f0977" title="GDList::clear" alt="" coords="324,5,423,35"/>
+<area shape="rect" id="node5" href="$classGDListConstCursor.html#a2546aa4d7764d0e3b38166de14c79ffb" title="GDListConstCursor::getNext" alt="" coords="279,59,468,88"/>
+<area shape="rect" id="node7" href="$classGDListConstCursor.html#aeb56b0313655a79bcd532554a5b46083" title="GDListConstCursor::hasNext" alt="" coords="517,85,712,115"/>
+<area shape="rect" id="node10" href="$classGDList.html#aaf5d0ee0974f071705f36b32e4aa3023" title="GDList::isEmpty" alt="" coords="315,163,432,192"/>
+<area shape="rect" id="node12" href="$classGDList.html#a05e7ad8c4345c2820250eb5e9815988f" title="GDList::pushBack" alt="" coords="309,216,437,245"/>
+</map>

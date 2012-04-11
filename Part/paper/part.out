@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}
+\BOOKMARK [1][-]{section.2}{Overview of Our Implementation}{}
+\BOOKMARK [2][-]{subsection.3}{Coarsening Phase}{section.2}
+\BOOKMARK [3][-]{subsubsection.4}{Maximal-Matching Based Clustering}{subsection.3}
+\BOOKMARK [3][-]{subsubsection.50}{Signal-Flow Based Clustering}{subsection.3}
+\BOOKMARK [2][-]{subsection.75}{Initial Partition Phase}{section.2}
+\BOOKMARK [2][-]{subsection.76}{Refinement Phase}{section.2}
+\BOOKMARK [2][-]{subsection.77}{Other Implementation Details}{section.2}
+\BOOKMARK [1][-]{section.78}{Experimental Results}{}
+\BOOKMARK [2][-]{subsection.79}{Comparisons with VILE Initial Partitioning}{section.78}
+\BOOKMARK [2][-]{subsection.81}{Comparison between Various Clustering Approaches}{section.78}
+\BOOKMARK [2][-]{subsection.84}{Comparison with Other Leading--edge Packages}{section.78}
+\BOOKMARK [1][-]{section.86}{Conclusion}{}
+\BOOKMARK [1][-]{section*.88}{References}{}

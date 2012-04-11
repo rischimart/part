@@ -1,0 +1,307 @@
+This is pdfTeX, Version 3.14159-14h-released-20010417 (Web2C 7.3.3.1) (format=pdflatex 2004.10.24)  18 APR 2006 19:01
+**part.tex
+(./part.tex{/usr/share/texmf/pdftex/config/pdftex.cfg}
+LaTeX2e <2001/06/01>
+Babel <v3.7h> and hyphenation patterns for american, french, german, ngerman, i
+talian, nohyphenation, loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2002/11/18 revision V1.6b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- The source comments contain changelog notes.
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 776.
+
+(/usr/share/texmf/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\@IEEEnormalsizefontbaselineskip=\skip41
+
+-- This is a 10 point document.
+\normalsizebaselineskip=\skip42
+\normaljot=\skip43
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1095.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1095.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1095.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1095.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1095.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1095.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1095.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1095.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1095.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1095.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1095.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1095.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1095.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1095.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1095.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1095.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1095.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1095.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1095.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1095.
+
+\IEEEilabelindentA=\dimen104
+\IEEEilabelindentB=\dimen105
+\IEEEilabelindent=\dimen106
+\IEEEelabelindent=\dimen107
+\IEEEdlabelindent=\dimen108
+\labelindent=\dimen109
+\IEEEiednormlabelsep=\dimen110
+\IEEEiedmathlabelsep=\dimen111
+\IEEEiedtopsep=\skip44
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen112
+\c@biography=\count90
+\@IEEEtranrubishbin=\box26
+) (./algo.sty
+Package: algo 2002/06/21 v1.0 Algorithm typesetting package (JG)
+\algo@box=\box27
+\c@algo@nr=\count91
+\algo@left=\skip47
+\algo@margin=\skip48
+\algo@indent=\skip49
+\algo@cur=\skip50
+\algo@next=\skip51
+) (/usr/share/texmf/tex/latex/cite/cite.sty
+Package: cite 2001/10/14  v 3.9
+)
+(/usr/share/texmf/tex/latex/html/url.sty
+Package: url 1999/03/02  ver 1.4  Verb mode for urls, email addresses, and file
+ names
+)
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+
+(/usr/share/texmf/tex/latex/graphics/pdftex.def
+File: pdftex.def 2001/11/29 v0.03i graphics/color for pdftex
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2002/08/04 v6.72v Hypertext links for LaTeX
+\@linkdim=\dimen115
+\Hy@linkcounter=\count93
+\Hy@pagecounter=\count94
+
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2002/08/04 v6.72v Hyperref: PDFDocEncoding definition (HO)
+)
+Package hyperref Info: Option `hypertexnames' set `false' on input line 1739.
+Package hyperref Info: Bookmarks ON on input line 1797.
+Package hyperref Info: Hyper figures OFF on input line 1816.
+Package hyperref Info: Link nesting OFF on input line 1821.
+Package hyperref Info: Hyper index ON on input line 1824.
+Package hyperref Info: Plain pages ON on input line 1829.
+Package hyperref Info: Backreferencing OFF on input line 1836.
+
+Implicit mode ON; LaTeX internals redefined
+LaTeX Info: Redefining \url on input line 2048.
+\Fld@menulength=\count95
+\Field@Width=\dimen116
+\Fld@charsize=\dimen117
+\Choice@toks=\toks16
+\Field@toks=\toks17
+Package hyperref Info: Hyper figures OFF on input line 2506.
+Package hyperref Info: Link nesting OFF on input line 2511.
+Package hyperref Info: Hyper index ON on input line 2514.
+Package hyperref Info: backreferencing OFF on input line 2521.
+Package hyperref Info: Link coloring OFF on input line 2526.
+\c@Item=\count96
+\c@Hfootnote=\count97
+)
+*hyperref using driver hpdftex*
+(/usr/share/texmf/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2002/08/04 v6.72v Hyperref driver for pdfTeX
+
+(/usr/share/texmf/tex/latex/psnfss/pifont.sty
+Package: pifont 2001/06/04 PSNFSS-v8.2 Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 62.
+
+(/usr/share/texmf/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 63.
+
+(/usr/share/texmf/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\Fld@listcount=\count98
+\@outlinefile=\write3
+) (./part.aux)
+\openout1 = `part.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+
+(/usr/share/texmf/tex/context/base/supp-pdf.tex
+(/usr/share/texmf/tex/context/base/supp-mis.tex
+loading : Context Support Macros / Missing
+\protectiondepth=\count99
+\scratchcounter=\count100
+\scratchtoks=\toks18
+\scratchdimen=\dimen118
+\scratchskip=\skip52
+\scratchmuskip=\muskip10
+\scratchbox=\box28
+\scratchread=\read1
+\scratchwrite=\write4
+\zeropoint=\dimen119
+\nextbox=\box29
+\nextdepth=\dimen120
+\everyline=\toks19
+\!!counta=\count101
+\!!countb=\count102
+\recursecounter=\count103
+)
+loading : Context Support Macros / PDF
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPtoPDFconversion=\toks20
+)
+Package hyperref Info: Link coloring OFF on input line 26.
+ (/usr/share/texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2001/01/27 v2.19 Cross-referencing by name of section
+\c@section@level=\count106
+)
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+ (./part.out) (./part.out)
+\openout3 = `part.out'.
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 46.
+
+(/usr/share/texmf/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 3417) in paragraph at lines 55--58
+/ptmb7t@9.0pt/clus-ter-ing, mul-ti-way par-ti-tion-ing, hy-per-graph par-ti-tio
+n-ing,
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 66.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 66.
+[1{/usr/share/texmf/dvips/config/pdftex.map}
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 310.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 310.
+ [2] [3]
+<parallel.pdf, id=270, 149.55875pt x 105.39375pt>
+File: parallel.pdf Graphic file (type pdf)
+ <use parallel.pdf> [4 <./parallel.pdf>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 601.
+
+Underfull \hbox (badness 1394) in paragraph at lines 805--819
+[]/ptmr7t/We com-pared two leading--edge mul-ti-level par-ti-tion-ers
+ []
+
+[5] (./part.bbl
+Underfull \hbox (badness 1478) in paragraph at lines 46--50
+/ptmr7t@8.0pt/dy-namic em-bed-ding,'' in /ptmri7t@8.0pt/Proc. First In-ter-na-t
+ional Con-fer-ence on
+ []
+
+[6]
+Underfull \hbox (badness 2181) in paragraph at lines 153--157
+[]/ptmr7t@8.0pt/G. Ausiello, P. Crescenzi, G. Gam-bosi, V. Kann, A. Marcetti-
+ []
+
+) [7
+
+] (./part.aux) ) 
+Here is how much of TeX's memory you used:
+ 3419 strings out of 50453
+ 48177 string characters out of 690527
+ 116745 words of memory out of 1500001
+ 6272 multiletter control sequences out of 10000+25000
+ 52660 words of font info for 97 fonts, out of 400000 for 1000
+ 19 hyphenation exceptions out of 10000
+ 27i,8n,36p,291b,421s stack positions out of 3000i,500n,3000p,50000b,5000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmsy5.pfb></usr/share/
+texmf/fonts/type1/bluesky/cm/cmmi5.pfb></usr/share/texmf/fonts/type1/bluesky/cm
+/cmex10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi6.pfb></usr/share/texm
+f/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cms
+y9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi9.pfb></usr/share/texmf/fon
+ts/type1/bluesky/cm/cmr9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy7.pfb
+></usr/share/texmf/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf/fonts/ty
+pe1/bluesky/cm/cmmi7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></us
+r/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/b
+luesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi10.pfb>{/usr/s
+hare/texmf/dvips/base/8r.enc}
+Output written on part.pdf (7 pages, 130817 bytes).

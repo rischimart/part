@@ -1,0 +1,32 @@
+[check]
+QMAKE_CACHE_VERSION = 1.03a
+QMAKE_ABSOLUTE_SOURCE_PATH = 
+MOC_DIR = 
+UI_DIR = 
+UI_HEADERS_DIR = 
+UI_SOURCES_DIR = 
+[depend]
+filenew.xpm = 
+fileopen.xpm = 
+filesave.xpm = 
+main.cpp = qpart.h qpartview.h qpartdoc.h
+qpart.cpp = qpart.h filesave.xpm fileopen.xpm filenew.xpm qpartview.h qpartdoc.h
+qpart.h = qpartview.h qpartdoc.h
+qpart.moc.cpp = qpart.h qpartview.h qpartdoc.h
+qpartdoc.cpp = qpartdoc.h
+qpartdoc.h = 
+qpartdoc.moc.cpp = qpartdoc.h
+qpartview.cpp = qpartview.h qpartdoc.h
+qpartview.h = qpartdoc.h
+qpartview.moc.cpp = qpartview.h qpartdoc.h
+[mocable]
+qpart.h = moc_qpart.cpp
+qpartdoc.h = moc_qpartdoc.cpp
+qpartview.h = moc_qpartview.cpp
+main.cpp = *qmake_ignore*
+qpart.cpp = *qmake_ignore*
+qpart.moc.cpp = *qmake_ignore*
+qpartdoc.cpp = *qmake_ignore*
+qpartdoc.moc.cpp = *qmake_ignore*
+qpartview.cpp = *qmake_ignore*
+qpartview.moc.cpp = *qmake_ignore*

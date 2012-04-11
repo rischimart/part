@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classKWayConstrMgrBase.html" title="{KWayConstrMgrBase\n|# _diff\l# _K\l# _upperBound\l# _lowerBound\l# _knownSatisfiedAll\l# _M\l|+ getMaxDiff()\l+ getAllowDiff()\l+ getUpperBound()\l+ getLowerBound()\l+ setUpperBound()\l+ setLowerBound()\l+ getDiff()\l+ getDiff()\l+ setDiff()\l+ setDiff2()\l+ updateMove()\l+ satisfiedAll()\l+ satisfiedOK()\l+ satisfiedAll()\l+ toOk()\l+ fromOk()\l# KWayConstrMgrBase()\l# ~KWayConstrMgrBase()\l# getNumPartitions()\l}" alt="" coords="5,6,181,490"/>
+</map>

@@ -1,0 +1,187 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{survey_1995}
+C.~J. Alpert and A.~B. Kahng, ``Recent directions in netlist partitioning: a
+  survey,'' \emph{Integr. VLSI J.}, vol.~19, no. 1--2, pp. 1--81, 1995.
+
+\bibitem{KL_1970}
+B.~W. Kernighan and S.~Lin, ``An efficient heuristic procedure for partitioning
+  graphs,'' \emph{Bell Syst. Tech. J.}, vol.~49, no.~2, pp. 291--307, 1970.
+
+\bibitem{FM_1982}
+C.~M. Fiduccia and R.~M. Mattheyses, ``A linear time heuristic for improving
+  network partitions,'' in \emph{Proc.{} ACM/IEEE Design Automation
+  Conference19th}, 1982, pp. 175--181.
+
+\bibitem{simulated_evolution_1990}
+R.-M. King and P.~Banerjee, ``Optimization by simulated evolution with
+  applications to standard cell placement,'' in \emph{Proc.{} ACM/IEEE Design
+  Automation Conference27th}, Orlando, FL, USA, June 1990, pp. 20--25.
+
+\bibitem{adaptive_genetic_1999}
+G.~C. Sipakoulis, I.~Karafyllidis, and A.~Thanailakis, ``Genetic partitioning
+  and placement for {VLSI} circuits,'' in \emph{Proc. 6th IEEE International
+  Conference on Electronics, Circuits and Systems}, vol.~3, Pafos, Cyprus,
+  Sept. 1999, pp. 1647--1650.
+
+\bibitem{genetic_1999}
+B.-R. Moon and C.-K. Kim, ``Genetic {VLSI} circuit partitioning with dynamic
+  embedding,'' in \emph{Proc. First International Conference on Knowledge-Based
+  Intelligent Electronic Systems}, vol.~2, Adelaide. SA, Australia, May 1997,
+  pp. 461--469.
+
+\bibitem{tabu_1993}
+S.~Areibi and A.~Vannelli, ``Circuit partitioning using a tabu search
+  approach,'' in \emph{Proc. IEEE International Symposium on Circuits and
+  Systems}, vol.~3, Chicago, IL, USA, May 1993, pp. 1643--1646.
+
+\bibitem{hopfield_1994}
+T.~Hameenanttila and J.~D. Carothers, ``A {Hopfield} neural network solution to
+  the {TCM} partitioning problem,'' in \emph{Proc. IEEE International
+  Conference on Neural Networks}, vol.~7, Orlando, FL, USA, 1994, pp.
+  4676--4680.
+
+\bibitem{neural_network_1995}
+S.~Kumar, K.~Forward, and M.~Palaniswami, ``An experimental evaluation of
+  neural network approach to circuit partitioning,'' in \emph{Proc. IEEE
+  International Conference on Neural Networks}, vol.~1, Perth, WA, Australia,
+  Dec. 1995, pp. 569--574.
+
+\bibitem{neural_network_tcad_1990}
+J.-S. Yih and P.~Mazumder, ``A neural network design for circuit
+  partitioning,'' \emph{IEEE Transactions on Computer-Aided Design of
+  Integrated Circuits}, vol.~9, no.~12, pp. 1265--1271, Dec. 1990.
+
+\bibitem{stochastic_neural_network_1996}
+C.~F. Ball and D.~A. Mlynski, ``A stochastic neural network approach for
+  circuit partitioning,'' in \emph{Proc. IEEE International Symposium on
+  Circuits and Systems}, vol.~4, Atlanta, GA, USA, May 1996, pp. 687--690.
+
+\bibitem{gradient_FM_1995}
+L.-T. Liu, M.-T. Kuo, S.-C. Huang, and C.-K. Cheng, ``A gradient method on the
+  initial partition of {Fiduccia}--{Mattheyses} algorithm,'' in \emph{Proc.
+  IEEE International Conference Computer--Aided Design}, San Jose, CA, USA,
+  Nov. 1995, pp. 229--234.
+
+\bibitem{eigenvector_1996}
+C.~J. Alpert and A.~B. Kahng, ``Simple eigenvector-based circuit clustering can
+  be effective,'' in \emph{Proc. IEEE International Conference Computer--Aided
+  Design}, vol.~4, Atlanta, GA, USA, May 1996, pp. 683--686.
+
+\bibitem{hybrid_multilevel_genetic_1996}
+C.~J. Alpert, L.~W. Hagen, and A.~B. Kahng, ``A hybrid multilevel/genetic
+  approach for circuit partitioning,'' in \emph{Proc. IEEE Asia Pacific
+  Conference on Circuits and Systems}, Seoul, South Korea, Nov. 1996, pp.
+  298--301.
+
+\bibitem{hMetis_1999}
+G.~Karypis, R.~Aggarwal, V.~Kumar, and S.~Shekhar, ``Multilevel hypergraph
+  partitioning: applications in {VLSI} domain,'' \emph{IEEE Transactions on
+  Very Large Scale Integration (VLSI) Systems}, vol.~7, no.~1, p.~69, Mar.
+  1999.
+
+\bibitem{multilevel_alpert_1998}
+C.~J. Alpert, J.-H. Huang, and A.~B. Kahng, ``Multilevel circuit
+  partitioning,'' \emph{IEEE Transactions on Computer-Aided Design of
+  Integrated Circuits}, vol.~17, no.~8, pp. 655--667, Aug. 1998.
+
+\bibitem{multilevel_edge_frequency_1998}
+S.~Wichlund and E.~J. Aas, ``On multilevel circuit partitioning,'' in
+  \emph{Proc. IEEE International Conference Computer--Aided Design}, San Jose,
+  CA, USA, Nov. 1998, pp. 505--511.
+
+\bibitem{multilevel_hierarchy_guided_2003}
+Y.~Cheon and D.~F. Wong, ``Design hierarchy-guided multilevel circuit
+  partitioning,'' \emph{IEEE Transactions on Computer-Aided Design of
+  Integrated Circuits}, vol.~22, no.~4, pp. 420--427, 2003.
+
+\bibitem{clustering_esc_2000}
+J.~Cong and K.~L. Sung, ``Edge separability based circuit clustering with
+  application to circuit partitioning,'' in \emph{Proc. Asia and South Pacific
+  Design Automation Conference}, Yokohama, Japan, Jan. 2000, pp. 429--434.
+
+\bibitem{clustering_signal_flow_1997}
+J.~Cong, H.~P. Li, K.~L. Sung, T.~Shibuya, and D.~Xu, ``Large scale circuit
+  partitioning with loose/stable net removal and signal flow based
+  clustering,'' in \emph{Proc. IEEE International Conference Computer--Aided
+  Design}, San Jose, CA, USA, Nov. 1997, pp. 441--446.
+
+\bibitem{fixed_vertices_2000}
+C.~J. Alpert, A.~E. Caldwell, A.~B. Kahng, and I.~L. Markov, ``Hypergraph
+  partitioning with fixed vertices,'' \emph{IEEE Transactions on Computer-Aided
+  Design of Integrated Circuits}, vol.~19, no.~2, pp. 267--272, Feb. 2000.
+
+\bibitem{hypergraph_improved_2000}
+A.~E. Caldwell, A.~B. Kahng, and I.~L. Markov, ``Improved algorithms for
+  hypergraph bipartitioning,'' in \emph{Proc. Asia and South Pacific Design
+  Automation Conference}, Yokohama, Japan, Jan. 2000, pp. 661--666.
+
+\bibitem{ispd_benchmark_1998}
+C.~J. Alpert, ``The {ISPD}-98 circuit benchmark suite,'' in \emph{Proc.
+  ACM/IEEE International Symposium on Phyical Design}, Apr. 1998, pp. 80--85,
+  see errata at http://vlsicad.cs.ucla.edu/~cheese/errata.html.
+
+\bibitem{LIFO_1997}
+L.~W. Hagen, D.~J.-H. Huang, and A.~B. Kahng, ``On implementation choices for
+  iterative improvement partitioning algorithms,'' \emph{IEEE Transactions on
+  Computer-Aided Design of Integrated Circuits}, vol.~16, no.~10, pp.
+  1199--1205, Oct. 1997.
+
+\bibitem{multigrid_1992}
+P.~Wesseling, \emph{An Introduction to Multigrid Methods}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Chichester: John Wiley and Sons, 1992.
+
+\bibitem{approximation_1999}
+G.~Ausiello, P.~Crescenzi, G.~Gambosi, V.~Kann, A.~Marcetti-Spaccamela, and
+  M.~Protasi, \emph{Complexity and Approximation: Combinatorial Optimization
+  Problems and Their Approximability Properties}.\hskip 1em plus 0.5em minus
+  0.4em\relax Springer--Verlag, 1999, ch. 2.4.2, pp. 67--69.
+
+\bibitem{graph_drawing_1999}
+G.~D. Battista, P.~Eades, R.~Tamassia, and I.~G. Tollis, \emph{Graph drawing:
+  algorithms for the visualization of graphs}.\hskip 1em plus 0.5em minus
+  0.4em\relax Prentice--Hall, 1999, ch. 9.4, pp. 294--300.
+
+\bibitem{hypergraph_reporting_1999}
+A.~E. Caldwell, A.~B. Kahng, A.~A. Kennings, and I.~L. Markov, ``Hypergraph
+  partitioning for {VLSI} {CAD}: methodology for heuristic development,
+  experimentation and reporting,'' in \emph{Proc.{} ACM/IEEE Design Automation
+  Conference36th}, New Orleans, LA, USA, June 1999, pp. 349--354.
+
+\bibitem{ispd98_benchmark}
+\BIBentryALTinterwordspacing
+C.~J. Alpert. The {ISPD98} circuit benchmark suite. [Online]. Available:
+  \url{http://vlsicad.cs.ucla.edu/~cheese/ispd98.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{hMetis}
+\BIBentryALTinterwordspacing
+G.~Karypis. {METIS}: Family of multilevel partitioning algorithms. [Online].
+  Available: \url{http://www-users.cs.umn.edu/~karypis/metis/index.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ucla_pdtools}
+\BIBentryALTinterwordspacing
+A.~Caldwell, A.~B. Kahng, and I.~Markov. Ucla/abkgroup physical design tools.
+  [Online]. Available: \url{http://nexus6.cs.ucla.edu/software/PDtools/}
+\BIBentrySTDinterwordspacing
+
+\end{thebibliography}

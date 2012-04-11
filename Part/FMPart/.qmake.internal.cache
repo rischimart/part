@@ -1,0 +1,13 @@
+[check]
+QMAKE_CACHE_VERSION = 1.03a
+QMAKE_ABSOLUTE_SOURCE_PATH = 
+MOC_DIR = 
+UI_DIR = 
+UI_HEADERS_DIR = 
+UI_SOURCES_DIR = 
+[depend]
+FMPartTmpl.cpp = FMPartTmpl.hpp
+FMPartTmpl.hpp = 
+[mocable]
+FMPartTmpl.hpp = *qmake_ignore*
+FMPartTmpl.cpp = *qmake_ignore*

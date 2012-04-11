@@ -1,0 +1,391 @@
+[ebrowse-hs "ebrowse 5.0" " -x" () ()][ebrowse-ts [ebrowse-cs "FMBiGainMgr" () 0"FMBiGainMgr.hpp" "class FMBiGainMgr
+{" 694"FMBiGainMgr.cpp" ]
+()([ebrowse-ms "_H" () 0 () "  Netlist& _H;" 2346 2  () () 0]
+[ebrowse-ms "_cellList" () 0 () "  Cell* const _cellList;" 2528 2  () () 0]
+[ebrowse-ms "_gainBucket" () 0 () "  GBPQueue<Vertex> _gainBucket;" 2422 2  () () 0]
+[ebrowse-ms "_vertexArray" () 0 () "  Vertex* const _vertexArray;" 2476 2  () () 0]
+)
+([ebrowse-ms "FMBiGainMgr" () 0 () "Mgr(Netlist& H, unsigned int=2, unsigned int=0);" 724 0  () "nMgr(Netlist& H, unsigned int , unsigned int ) :" 154]
+[ebrowse-ms "getGain" () 4 () "  int getGain(const" 1295 0  "FMBiGainMgr.hpp" "  int getGain(const" 1295]
+[ebrowse-ms "init" () 0 () "  void init(const" 821 0  "FMBiGainMgr.hpp" "  void init(const" 821]
+[ebrowse-ms "init" () 0 () "  void init(const" 964 0  () "void FMBiGainMgr::init(const" 487]
+[ebrowse-ms "pushBack" () 0 () "  void pushBack(unsigned" 1995 0  "FMBiGainMgr.hpp" "  void pushBack(unsigned" 1995]
+[ebrowse-ms "select" () 0 () "  Vertex* select(FMMoveInfo" 1109 0  () "Vertex* FMBiGainMgr::select(FMMoveInfo" 893]
+[ebrowse-ms "updateGain" () 0 () "  void updateGain(GDList" 2192 0  "FMBiGainMgr.hpp" "  void updateGain(GDList" 2192]
+[ebrowse-ms "updateMove" () 0 () "  void updateMove(const" 1406 0  "FMBiGainMgr.hpp" "  void updateMove(const" 1406]
+[ebrowse-ms "updateNeighbor" () 0 () "  void updateNeighbor(unsigned" 1568 0  "FMBiGainMgr.hpp" "  void updateNeighbor(unsigned" 1568]
+)
+()
+()
+()
+()
+()()
+][ebrowse-ts [ebrowse-cs "BiConstrMgrBase" () 0"BiConstrMgrBase.hpp" "class BiConstrMgrBase
+{" 229"BiConstrMgrBase.hpp" ]
+([ebrowse-ts [ebrowse-cs "BiConstrMgr" () 0"BiConstrMgr.hpp" "class BiConstrMgr :" 999"BiConstrMgr.hpp" ]
+()()
+([ebrowse-ms "BiConstrMgr" () 0 () "  BiConstrMgr(const FMBiDiff& diff) :" 1073 0  () "  BiConstrMgr(const FMBiDiff& diff) :" 1073]
+[ebrowse-ms "satisfied" () 4 () "  bool satisfied(const" 1508 0  () "  bool satisfied(const" 1508]
+)
+()
+()
+()
+()
+()()
+][ebrowse-ts [ebrowse-cs "BiConstrMgr3" () 0"BiConstrMgr3.hpp" "class BiConstrMgr3 :" 594"BiConstrMgr3.cpp" ]
+()()
+([ebrowse-ms "BiConstrMgr3" () 0 () "  BiConstrMgr3(const FMBiDiff& diff) :" 669 0  "BiConstrMgr3.hpp" "  BiConstrMgr3(const FMBiDiff& diff) :" 669]
+[ebrowse-ms "satisfied" () 4 () "  bool satisfied(const" 1103 0  () "bool BiConstrMgr3::satisfied(const" 475]
+)
+()
+()
+()
+()
+()()
+])([ebrowse-ms "_allowDiff" () 0 () "  int          _allowDiff;" 267 1  () () 0]
+[ebrowse-ms "_diff" () 0 () "  FMBiDiff     _diff;" 324 1  () () 0]
+)
+([ebrowse-ms "BiConstrMgrBase" () 0 () "  BiConstrMgrBase(const FMBiDiff& diff) :" 437 1  () "  BiConstrMgrBase(const FMBiDiff& diff) :" 437]
+[ebrowse-ms "better" () 4 () "  bool better(const" 2326 0  () "  bool better(const" 2326]
+[ebrowse-ms "getAllowDiff" () 4 () "  int getAllowDiff()" 1206 0  () "  int getAllowDiff()" 1206]
+[ebrowse-ms "getDiff" () 4 () "  int getDiff()" 723 0  () "  int getDiff()" 723]
+[ebrowse-ms "getMaxDiff" () 4 () "  int getMaxDiff()" 841 0  () "  int getMaxDiff()" 841]
+[ebrowse-ms "satisfiedAll" () 4 () "  bool satisfiedAll()" 1961 0  () "  bool satisfiedAll()" 1961]
+[ebrowse-ms "satisfiedAll" () 4 () "  bool satisfiedAll(int" 1652 0  () "  bool satisfiedAll(int" 1652]
+[ebrowse-ms "satisfiedOK" () 4 () "  bool satisfiedOK()" 2033 0  () "  bool satisfiedOK()" 2033]
+[ebrowse-ms "setAllowDiff" () 0 () "  void setAllowDiff(int" 1351 0  () "  void setAllowDiff(int" 1351]
+[ebrowse-ms "setDiff" () 0 () "  void setDiff(const" 595 0  () "  void setDiff(const" 595]
+[ebrowse-ms "updateMove" () 0 () "  void updateMove(const" 964 0  () "  void updateMove(const" 964]
+[ebrowse-ms "~BiConstrMgrBase" () 0 () "  ~BiConstrMgrBase()" 512 1  () "  ~BiConstrMgrBase()" 512]
+)
+()
+()
+()
+()
+()()
+][ebrowse-ts [ebrowse-cs "FMBiGainMgr2" () 0"FMBiGainMgr2.hpp" "class FMBiGainMgr2
+{" 2169"FMBiGainMgr2.cpp" ]
+()([ebrowse-ms "_H" () 0 () "  Netlist&       _H;" 4216 2  () () 0]
+[ebrowse-ms "_cellList" () 0 () "  Cell* const    _cellList;" 4406 2  () () 0]
+[ebrowse-ms "_gainBucket" () 0 () "  VertexPQ       _gainBucket[2];" 4289 2  () () 0]
+[ebrowse-ms "_vertexArray" () 0 () "  Vertex* const  _vertexArray;" 4350 2  () () 0]
+)
+([ebrowse-ms "FMBiGainMgr2" () 0 () "gr2(Netlist& H, unsigned int=2, unsigned int=0);" 2267 0  () "Mgr2(Netlist& H, unsigned int , unsigned int ) :" 157]
+[ebrowse-ms "getGain" () 4 () "  int getGain(const" 3057 0  "FMBiGainMgr2.hpp" "  int getGain(const" 3057]
+[ebrowse-ms "init" () 0 () "  void init(const" 2364 0  () "void FMBiGainMgr2::init(const" 529]
+[ebrowse-ms "pushBack" () 0 () "  void pushBack(unsigned" 3829 0  "FMBiGainMgr2.hpp" "  void pushBack(unsigned" 3829]
+[ebrowse-ms "select" () 0 () "  Vertex* select(FMMoveInfo" 2731 0  "FMBiGainMgr2.hpp" "  Vertex* select(FMMoveInfo" 2731]
+[ebrowse-ms "select" () 0 () "  Vertex* select(FMMoveInfo" 2924 0  () "Vertex* FMBiGainMgr2::select(FMMoveInfo" 1045]
+[ebrowse-ms "updateGain" () 0 () "  void updateGain(GDList" 4046 0  "FMBiGainMgr2.hpp" "  void updateGain(GDList" 4046]
+[ebrowse-ms "updateMove" () 0 () "  void updateMove(const" 3238 0  "FMBiGainMgr2.hpp" "  void updateMove(const" 3238]
+[ebrowse-ms "updateNeighbor" () 0 () "  void updateNeighbor(unsigned" 3428 0  "FMBiGainMgr2.hpp" "  void updateNeighbor(unsigned" 3428]
+)
+()
+()
+()
+([ebrowse-ms "VertexPQ" () 0 () "  typedef GBPQueue<Vertex>         VertexPQ;" 2214 2  () () 0]
+)
+()()
+][ebrowse-ts [ebrowse-cs "FMMoveInfo" () 0"FMMoveInfo.hpp" "class FMMoveInfo {" 141"FMMoveInfo.hpp" ]
+()([ebrowse-ms "_cell" () 0 () "  Cell*   _cell;" 185 0  () () 0]
+[ebrowse-ms "_fromPart" () 0 () "  unsigned int _fromPart;" 237 0  () () 0]
+[ebrowse-ms "_i_v" () 0 () "  unsigned int _i_v;" 211 0  () () 0]
+[ebrowse-ms "_toPart" () 0 () "  unsigned int _toPart;" 261 0  () () 0]
+[ebrowse-ms "_vertex" () 0 () "  Vertex* _vertex;" 168 0  () () 0]
+)
+([ebrowse-ms "get" () 4 () "  void get(unsigned" 316 0  () "  void get(unsigned" 316]
+[ebrowse-ms "set" () 0 () "  void set(unsigned" 528 0  () "  void set(unsigned" 528]
+)
+()
+()
+()
+()
+()()
+][ebrowse-ts [ebrowse-cs "std" () 0() () 0"FMBiGainArray.hpp" ]
+()([ebrowse-ms "vector" () 0 () () 0 0  "FMPartMgrBase.hpp" "using std::vector;" 95]
+)
+()
+()
+()
+()
+()
+()()
+][ebrowse-ts [ebrowse-cs "FMBiGainArray" () 0"FMBiGainArray.hpp" "class FMBiGainArray
+{" 271"FMBiGainArray.hpp" ]
+()([ebrowse-ms "_gain" () 0 () "  vector<short>& _gain;" 776 2  () () 0]
+)
+([ebrowse-ms "FMBiGainArray" () 0 () "  FMBiGainArray(vector<short>& gain) :" 323 0  () "  FMBiGainArray(vector<short>& gain) :" 323]
+[ebrowse-ms "updateMove" () 0 () "  void updateMove(const" 450 0  () "  void updateMove(const" 450]
+[ebrowse-ms "updateNeighbor" () 0 () "  void updateNeighbor(unsigned" 664 0  () "  void updateNeighbor(unsigned" 664]
+)
+()
+()
+()
+()
+()()
+][ebrowse-ts [ebrowse-cs "FMLimits" () 0"FMLimits.hpp" "class FMLimits
+{" 773"FMLimits.hpp" ]
+()()
+()
+()
+([ebrowse-ms "maxCellWeight" () 0 () "  static int maxCellWeight()" 1040 0  () "  static int maxCellWeight()" 1040]
+[ebrowse-ms "maxDegreeOfCells" () 0 () "  static unsigned int maxDegreeOfCells()" 1717 0  () "  static unsigned int maxDegreeOfCells()" 1717]
+[ebrowse-ms "maxFanOutOfNets" () 0 () "  static unsigned int maxFanOutOfNets()" 2106 0  () "  static unsigned int maxFanOutOfNets()" 2106]
+[ebrowse-ms "maxNetWeight" () 0 () "  static int maxNetWeight()" 1288 0  () "  static int maxNetWeight()" 1288]
+[ebrowse-ms "maxNumOfPartitions" () 0 () "  static unsigned int maxNumOfPartitions()" 870 0  () "  static unsigned int maxNumOfPartitions()" 870]
+)
+()
+()
+()()
+][ebrowse-ts [ebrowse-cs "exception" "std" 0() () 0() ]
+([ebrowse-ts [ebrowse-cs "FMException" () 0"FMException.hpp" "class FMException :" 342"FMException.cpp" ]
+()([ebrowse-ms "_errType" () 0 () "  FMErrorType _errType;" 1276 2  () () 0]
+)
+([ebrowse-ms "FMException" () 128 () "  FMException(FMErrorType errType) throw() :" 1064 0  "FMException.hpp" "  FMException(FMErrorType errType) throw() :" 1064]
+[ebrowse-ms "FMException" () 128 () "  FMException() throw() :" 1003 0  "FMException.hpp" "  FMException() throw() :" 1003]
+[ebrowse-ms "what" () 133 () "  virtual const char* what()" 1227 0  () "const char* FMException::what()" 59]
+[ebrowse-ms "~FMException" () 129 () "  virtual ~FMException()" 1150 0  "FMException.hpp" "  virtual ~FMException()" 1150]
+)
+()
+()
+()
+([ebrowse-ms "FMErrorType" () 0 () "  enum FMErrorType {" 423 0  "FMException.hpp" "  enum FMErrorType {" 423]
+)
+()()
+])()
+()
+()
+()
+()
+()
+()()
+][ebrowse-ts [ebrowse-cs "FMBiDiff" () 0"FMBiDiff.hpp" "class FMBiDiff
+{" 299"FMBiDiff.hpp" ]
+()([ebrowse-ms "_diff" () 0 () "  int _diff;" 1237 2  () () 0]
+)
+([ebrowse-ms "FMBiDiff" () 0 () "  FMBiDiff(int diff) :" 343 0  () "  FMBiDiff(int diff) :" 343]
+[ebrowse-ms "clear" () 0 () "  void clear()" 626 0  () "  void clear()" 626]
+[ebrowse-ms "getDiff" () 4 () "  int getDiff()" 460 0  () "  int getDiff()" 460]
+[ebrowse-ms "getMaxDiff" () 4 () "  int getMaxDiff()" 715 0  () "  int getMaxDiff()" 715]
+[ebrowse-ms "setDiff" () 0 () "  void setDiff(int" 555 0  () "  void setDiff(int" 555]
+[ebrowse-ms "updateMove" () 0 () "  void updateMove(const" 1032 0  () "  void updateMove(const" 1032]
+[ebrowse-ms "updateMove" () 0 () "  void updateMove(unsigned" 832 0  () "  void updateMove(unsigned" 832]
+)
+()
+()
+()
+()
+()()
+][ebrowse-ts [ebrowse-cs "FMBiMoveStruct" () 32"FMBiMoveStruct.hpp" "class FMBiMoveStruct
+{" 201"FMBiMoveStruct.hpp" ]
+()([ebrowse-ms "_a" () 0 () "  A&  _a;" 954 2  () () 0]
+[ebrowse-ms "_b" () 0 () "  B&  _b;" 964 2  () () 0]
+)
+([ebrowse-ms "FMBiMoveStruct" () 0 () "  FMBiMoveStruct( A& a, B& b ) :" 250 0  () "  FMBiMoveStruct( A& a, B& b ) :" 250]
+[ebrowse-ms "updateMove" () 0 () "  void updateMove( const" 407 0  () "  void updateMove( const" 407]
+[ebrowse-ms "updateNeighbor" () 0 () "  void updateNeighbor( unsigned" 746 0  () "  void updateNeighbor( unsigned" 746]
+)
+()
+()
+()
+()
+()()
+][ebrowse-ts [ebrowse-cs "FMPartMgrBase" () 0"FMPartMgrBase.hpp" "class FMPartMgrBase
+{" 438"FMPartMgrBase.cpp" ]
+([ebrowse-ts [ebrowse-cs "FMBiPartMgrBase" () 0"FMBiPartMgrBase.hpp" "class FMBiPartMgrBase :" 389"FMBiPartMgrBase.cpp" ]
+([ebrowse-ts [ebrowse-cs "FMBiPartComm" () 0"FMBiPartComm.hpp" "class FMBiPartComm :" 334"FMBiPartComm.cpp" ]
+([ebrowse-ts [ebrowse-cs "FMBiPartCore" () 0"FMBiPartCore.hpp" "class FMBiPartCore :" 187"FMBiPartCore.cpp" ]
+()()
+([ebrowse-ms "FMBiPartCore" () 0 () "MBiPartCore(Netlist& H, unsigned int=2, int=0) :" 342 1  "FMBiPartCore.hpp" "MBiPartCore(Netlist& H, unsigned int=2, int=0) :" 342]
+[ebrowse-ms "initGainCore" () 0 () "  void initGainCore(const" 477 1  () "void FMBiPartCore::initGainCore(const" 616]
+[ebrowse-ms "updateCore" () 0 () "  int updateCore(const" 786 1  () "int FMBiPartCore::updateCore(const" 255]
+[ebrowse-ms "updateMove" () 32 () "  void updateMove(const" 612 1  () () 0]
+[ebrowse-ms "updateMove" () 32 () () 0 0  () "updateMove(const" 2875]
+[ebrowse-ms "updateMove" () 32 () () 0 0  () "updateMove(const" 2555]
+[ebrowse-ms "updateMove" () 32 () () 0 0  () "updateMove(const" 2411]
+[ebrowse-ms "updateMove" () 32 () () 0 0  () "updateMove(const" 2265]
+[ebrowse-ms "updateMove" () 32 () () 0 0  () "updateMove(const" 1091]
+)
+()
+()
+()
+()
+()()
+][ebrowse-ts [ebrowse-cs "FMBiPartCore4" () 0"FMBiPartCore4.hpp" "class FMBiPartCore4 :" 358"FMBiPartCore4.cpp" ]
+()([ebrowse-ms "_numA" () 0 () "  vector<unsigned char>   _numA[2];" 1681 2  () () 0]
+)
+([ebrowse-ms "FMBiPartCore4" () 0 () "BiPartCore4(Netlist& H, unsigned int=2, int=0) :" 514 1  "FMBiPartCore4.hpp" "BiPartCore4(Netlist& H, unsigned int=2, int=0) :" 514]
+[ebrowse-ms "initGainCore" () 0 () "  void initGainCore(const" 719 1  () "void FMBiPartCore4::initGainCore(const" 187]
+[ebrowse-ms "pushBack4" () 32 () "  void pushBack4(unsigned" 1304 1  "FMBiPartCore4.hpp" "  void pushBack4(unsigned" 1304]
+[ebrowse-ms "updateMove" () 32 () "  void updateMove(const" 1534 2  () () 0]
+[ebrowse-ms "updateMove" () 32 () () 0 0  () "updateMove(const" 2566]
+[ebrowse-ms "updateMove" () 32 () () 0 0  () "updateMove(const" 2244]
+[ebrowse-ms "updateMove" () 32 () () 0 0  () "updateMove(const" 2099]
+[ebrowse-ms "updateMove" () 32 () () 0 0  () "updateMove(const" 1952]
+[ebrowse-ms "updateMove" () 32 () () 0 0  () "updateMove(const" 854]
+[ebrowse-ms "updateMove4" () 32 () "  void updateMove4(const" 899 1  "FMBiPartCore4.hpp" "  void updateMove4(const" 899]
+)
+()
+()
+()
+()
+()()
+])([ebrowse-ms "_IdVec" () 0 () "  int   _IdVec[32768];" 1087 2  () () 0]
+[ebrowse-ms "_deltaGain" () 0 () "  short _deltaGain[32768];" 1154 2  () () 0]
+[ebrowse-ms "_gain" () 0 () "  vector<short>    _gain;" 1228 1  () () 0]
+[ebrowse-ms "_num" () 0 () "  int              _num[2];" 1285 1  () () 0]
+)
+([ebrowse-ms "FMBiPartComm" () 0 () "  FMBiPartComm(Netlist& H);" 414 1  () "FMBiPartComm::FMBiPartComm(Netlist& H) :" 127]
+[ebrowse-ms "initGain" () 0 () "  void initGain(const" 475 1  () "void FMBiPartComm::initGain(const" 321]
+[ebrowse-ms "updateMove2PinNet" () 32 () "  void updateMove2PinNet(const" 631 1  () () 0]
+[ebrowse-ms "updateMove2PinNet" () 32 () () 0 0  () "  const" 5636]
+[ebrowse-ms "updateMove2PinNet" () 32 () () 0 0  () "  const" 5274]
+[ebrowse-ms "updateMove2PinNet" () 32 () () 0 0  () "  const" 5109]
+[ebrowse-ms "updateMove2PinNet" () 32 () () 0 0  () "  const" 4942]
+[ebrowse-ms "updateMove2PinNet" () 32 () () 0 0  () "  const" 2224]
+[ebrowse-ms "updateMoveGeneralNet" () 32 () "  void updateMoveGeneralNet(const" 936 1  () () 0]
+[ebrowse-ms "updateMoveGeneralNet" () 32 () () 0 0  () "  const" 6543]
+[ebrowse-ms "updateMoveGeneralNet" () 32 () () 0 0  () "  const" 6175]
+[ebrowse-ms "updateMoveGeneralNet" () 32 () () 0 0  () "  const" 6007]
+[ebrowse-ms "updateMoveGeneralNet" () 32 () () 0 0  () "  const" 5837]
+[ebrowse-ms "updateMoveGeneralNet" () 32 () () 0 0  () "  const" 3314]
+)
+()
+()
+()
+()
+()()
+])([ebrowse-ms "_constraintMgr" () 0 () "  BiConstrMgr3     _constraintMgr;" 2719 1  () () 0]
+[ebrowse-ms "_diff" () 0 () "  FMBiDiff        _diff;" 2634 1  () () 0]
+)
+([ebrowse-ms "FMBiPartMgrBase" () 0 () "iPartMgrBase(Netlist& H, unsigned int=2, int=0);" 1345 1  () "BiPartMgrBase(Netlist& H, unsigned int , int ) :" 584]
+[ebrowse-ms "calcDiff" () 6 () "  inline int calcDiff(const" 2519 2  () "inline int FMBiPartMgrBase::calcDiff(const" 4459]
+[ebrowse-ms "checkBalanceOk" () 4 () "  bool checkBalanceOk(const" 1103 0  () "bool FMBiPartMgrBase::checkBalanceOk(const" 5202]
+[ebrowse-ms "cutCost" () 5 () "  unsigned int cutCost(const" 1215 0  () "unsigned int FMBiPartMgrBase::cutCost(const" 5380]
+[ebrowse-ms "getConstraintMgr" () 4 () "  const BiConstrMgr3& getConstraintMgr()" 1648 1  "FMBiPartMgrBase.hpp" "  const BiConstrMgr3& getConstraintMgr()" 1648]
+[ebrowse-ms "getConstraintMgr" () 0 () "  BiConstrMgr3& getConstraintMgr()" 1540 1  "FMBiPartMgrBase.hpp" "  BiConstrMgr3& getConstraintMgr()" 1540]
+[ebrowse-ms "getCostModel" () 4 () "  unsigned int getCostModel()" 637 0  "FMBiPartMgrBase.hpp" "  unsigned int getCostModel()" 637]
+[ebrowse-ms "getDiff" () 4 () "  int getDiff()" 819 0  "FMBiPartMgrBase.hpp" "  int getDiff()" 819]
+[ebrowse-ms "getNumPartitions" () 4 () "  unsigned int getNumPartitions()" 525 0  "FMBiPartMgrBase.hpp" "  unsigned int getNumPartitions()" 525]
+[ebrowse-ms "initBase" () 1 () "  virtual void initBase()" 1821 1  () "void FMBiPartMgrBase::initBase()" 5512]
+[ebrowse-ms "initDiff" () 0 () "  void initDiff(const" 952 0  () "void FMBiPartMgrBase::initDiff(const" 4755]
+[ebrowse-ms "initPart" () 0 () "  void initPart(vector" 1442 1  () "void FMBiPartMgrBase::initPart(vector" 966]
+[ebrowse-ms "initPartByRandom" () 2 () "  inline void initPartByRandom(vector" 2407 2  () "initPartByRandom(vector" 4131]
+[ebrowse-ms "initPartBySort" () 2 () "  inline void initPartBySort(vector" 2263 2  () "initPartBySort(vector" 2444]
+[ebrowse-ms "initPartByVILE" () 2 () "  inline void initPartByVILE(vector" 2334 2  () "initPartByVILE(vector" 3850]
+[ebrowse-ms "printDiff" () 5 () "  virtual void printDiff()" 1279 0  () "void FMBiPartMgrBase::printDiff()" 4986]
+[ebrowse-ms "setDiff" () 0 () "  void setDiff(int" 736 0  () "void FMBiPartMgrBase::setDiff(int" 704]
+[ebrowse-ms "setDiffInternal" () 2 () "  inline void setDiffInternal(int" 2590 2  () "inline void FMBiPartMgrBase::setDiffInternal(int" 790]
+[ebrowse-ms "~FMBiPartMgrBase" () 0 () "  ~FMBiPartMgrBase()" 1415 1  "FMBiPartMgrBase.hpp" "  ~FMBiPartMgrBase()" 1415]
+)
+()
+()
+()
+()
+()()
+])([ebrowse-ms "_H" () 0 () "  Netlist&       _H;" 3749 2  () () 0]
+[ebrowse-ms "_avgCost" () 0 () "  double         _avgCost;" 4021 2  () () 0]
+[ebrowse-ms "_balTol" () 0 () "  double         _balTol;" 3819 2  () () 0]
+[ebrowse-ms "_bestCost" () 0 () "  unsigned int   _bestCost;" 4081 2  () () 0]
+[ebrowse-ms "_cellList" () 0 () "  Cell* const    _cellList;" 4421 1  () () 0]
+[ebrowse-ms "_initCost" () 0 () "  unsigned int   _initCost;" 4370 1  () () 0]
+[ebrowse-ms "_maxdiff" () 0 () "  int            _maxdiff;" 4131 2  () () 0]
+[ebrowse-ms "_netList" () 0 () "  Net* const     _netList;" 4479 1  () () 0]
+[ebrowse-ms "_noInit" () 0 () "  bool           _noInit;" 3878 2  () () 0]
+[ebrowse-ms "_numCells" () 0 () "  unsigned int   _numCells;" 4245 2  () () 0]
+[ebrowse-ms "_numNets" () 0 () "  unsigned int   _numNets;" 4301 2  () () 0]
+[ebrowse-ms "_totalWeight" () 0 () "  unsigned int   _totalWeight;" 4189 2  () () 0]
+[ebrowse-ms "_verbosity" () 0 () "  int            _verbosity;" 3954 2  () () 0]
+)
+([ebrowse-ms "FMPartMgrBase" () 0 () "  FMPartMgrBase(Netlist& H);" 3097 1  () "FMPartMgrBase::FMPartMgrBase(Netlist& H) :" 235]
+[ebrowse-ms "cutCost" () 13 () "  virtual unsigned int cutCost(const" 564 0  () () 0]
+[ebrowse-ms "diff" () 4 () "  double diff()" 2307 0  "FMPartMgrBase.hpp" "  double diff()" 2307]
+[ebrowse-ms "doPartition" () 0 () "  double doPartition(vector" 800 0  () "double FMPartMgrBase::doPartition(vector" 983]
+[ebrowse-ms "doPartitionOne" () 9 () "  virtual unsigned int doPartitionOne(vector" 697 0  () () 0]
+[ebrowse-ms "doPartitionQt" () 0 () "  int doPartitionQt(vector" 931 0  () () 0]
+[ebrowse-ms "getAvgCost" () 4 () "  double getAvgCost()" 2172 0  "FMPartMgrBase.hpp" "  double getAvgCost()" 2172]
+[ebrowse-ms "getBalanceTol" () 4 () "  double getBalanceTol()" 1044 0  "FMPartMgrBase.hpp" "  double getBalanceTol()" 1044]
+[ebrowse-ms "getBestCost" () 4 () "  unsigned int getBestCost()" 1782 0  "FMPartMgrBase.hpp" "  unsigned int getBestCost()" 1782]
+[ebrowse-ms "getInitCost" () 4 () "  unsigned int getInitCost()" 1379 0  "FMPartMgrBase.hpp" "  unsigned int getInitCost()" 1379]
+[ebrowse-ms "getMaxDiff" () 4 () "  int getMaxDiff()" 1295 0  "FMPartMgrBase.hpp" "  int getMaxDiff()" 1295]
+[ebrowse-ms "getNetlist" () 4 () "  const Netlist& getNetlist()" 3223 1  "FMPartMgrBase.hpp" "  const Netlist& getNetlist()" 3223]
+[ebrowse-ms "getNetlist" () 0 () "  Netlist& getNetlist()" 3152 1  "FMPartMgrBase.hpp" "  Netlist& getNetlist()" 3152]
+[ebrowse-ms "getNumCells" () 4 () "  unsigned int getNumCells()" 3490 1  "FMPartMgrBase.hpp" "  unsigned int getNumCells()" 3490]
+[ebrowse-ms "getNumNets" () 4 () "  unsigned int getNumNets()" 3583 1  "FMPartMgrBase.hpp" "  unsigned int getNumNets()" 3583]
+[ebrowse-ms "getTotalWeight" () 4 () "  unsigned int getTotalWeight()" 3686 1  "FMPartMgrBase.hpp" "  unsigned int getTotalWeight()" 3686]
+[ebrowse-ms "getVerbosity" () 4 () "  int getVerbosity()" 2875 0  "FMPartMgrBase.hpp" "  int getVerbosity()" 2875]
+[ebrowse-ms "initBase" () 1 () "  virtual void initBase()" 3316 1  "FMPartMgrBase.hpp" "  virtual void initBase()" 3316]
+[ebrowse-ms "isNoInit" () 4 () "  bool isNoInit()" 2431 0  "FMPartMgrBase.hpp" "  bool isNoInit()" 2431]
+[ebrowse-ms "setBalanceTol" () 0 () "  void setBalanceTol(double" 1168 0  "FMPartMgrBase.hpp" "  void setBalanceTol(double" 1168]
+[ebrowse-ms "setMaxDiff" () 0 () "  void setMaxDiff(int" 3390 1  "FMPartMgrBase.hpp" "  void setMaxDiff(int" 3390]
+[ebrowse-ms "setNoInit" () 0 () "  void setNoInit(unsigned" 2730 0  "FMPartMgrBase.hpp" "  void setNoInit(unsigned" 2730]
+[ebrowse-ms "setVerbosity" () 0 () "  void setVerbosity(int" 3000 0  "FMPartMgrBase.hpp" "  void setVerbosity(int" 3000]
+[ebrowse-ms "~FMPartMgrBase" () 1 () "  virtual ~FMPartMgrBase()" 493 0  "FMPartMgrBase.hpp" "  virtual ~FMPartMgrBase()" 493]
+)
+()
+()
+()
+()
+()()
+][ebrowse-ts [ebrowse-cs "*Globals*" () 0() () 0"BiConstrMgr3.hpp" ]
+()()
+([ebrowse-ms "operator <" () 2 "PartMeasure.hpp" "inline bool operator<(const" 466 0  "PartMeasure.hpp" "inline bool operator<(const" 466]
+)
+()
+()
+([ebrowse-ms "BI_CONSTR_MGR3_HPP" () 512 () () 0 0  () "#define BI_CONSTR_MGR3_HPP
+" 54]
+[ebrowse-ms "BI_CONSTR_MGR_BASE_HPP" () 512 () () 0 0  "BiConstrMgrBase.hpp" "#define BI_CONSTR_MGR_BASE_HPP
+" 62]
+[ebrowse-ms "BI_CONSTR_MGR_HPP" () 512 () () 0 0  "BiConstrMgr.hpp" "#define BI_CONSTR_MGR_HPP
+" 52]
+[ebrowse-ms "FM_BI_DIFF_HPP" () 512 () () 0 0  "FMBiDiff.hpp" "#define FM_BI_DIFF_HPP
+" 46]
+[ebrowse-ms "FM_BI_GAIN_ARRAY_HPP" () 512 () () 0 0  "FMBiGainArray.hpp" "#define FM_BI_GAIN_ARRAY_HPP
+" 58]
+[ebrowse-ms "FM_BI_GAIN_MGR2_HPP" () 512 () () 0 0  "FMBiGainMgr2.hpp" "#define FM_BI_GAIN_MGR2_HPP
+" 56]
+[ebrowse-ms "FM_BI_GAIN_MGR_HPP" () 512 () () 0 0  "FMBiGainMgr.hpp" "#define FM_BI_GAIN_MGR_HPP
+" 54]
+[ebrowse-ms "FM_BI_MOVE_STRUCT_HPP" () 512 () () 0 0  "FMBiMoveStruct.hpp" "#define FM_BI_MOVE_STRUCT_HPP
+" 60]
+[ebrowse-ms "FM_BI_PART_COMM_HPP" () 512 () () 0 0  "FMBiPartComm.hpp" "#define FM_BI_PART_COMM_HPP
+" 56]
+[ebrowse-ms "FM_BI_PART_CORE_HPP" () 512 () () 0 0  "FMBiPartCore.hpp" "#define FM_BI_PART_CORE_HPP
+" 56]
+[ebrowse-ms "FM_BI_PART_MGR_BASE_HPP" () 512 () () 0 0  "FMBiPartMgrBase.hpp" "#define FM_BI_PART_MGR_BASE_HPP
+" 64]
+[ebrowse-ms "FM_BI_PART_MGR_CORE4_HPP" () 512 () () 0 0  "FMBiPartCore4.hpp" "#define FM_BI_PART_MGR_CORE4_HPP
+" 66]
+[ebrowse-ms "FM_EXCEPTION_HPP" () 512 () () 0 0  "FMException.hpp" "#define FM_EXCEPTION_HPP
+" 50]
+[ebrowse-ms "FM_LIMITS_HPP" () 512 () () 0 0  "FMLimits.hpp" "#define FM_LIMITS_HPP
+" 44]
+[ebrowse-ms "FM_MOVE_INFO_HPP" () 512 () () 0 0  "FMMoveInfo.hpp" "#define FM_MOVE_INFO_HPP
+" 50]
+[ebrowse-ms "FM_PART_MGR_BASE_HPP" () 512 () () 0 0  "FMPartMgrBase.hpp" "#define FM_PART_MGR_BASE_HPP
+" 58]
+[ebrowse-ms "PART_MEASURE_HPP" () 512 () () 0 0  "PartMeasure.hpp" "#define PART_MEASURE_HPP
+" 50]
+)
+([ebrowse-ms "Vertex" () 0 () () 0 0  "FMMoveInfo.hpp" "typedef GNode Vertex;" 97]
+)
+()()
+][ebrowse-ts [ebrowse-cs "PartMeasure" () 0"PartMeasure.hpp" "class PartMeasure
+{" 70"PartMeasure.hpp" ]
+()([ebrowse-ms "_cost" () 0 () "  unsigned int _cost;" 101 2  () () 0]
+[ebrowse-ms "_diff" () 0 () "  int _diff;" 114 2  () () 0]
+)
+([ebrowse-ms "PartMeasure" () 0 () "  PartMeasure(unsigned int cost, int diff) :" 199 0  () "  PartMeasure(unsigned int cost, int diff) :" 199]
+[ebrowse-ms "PartMeasure" () 0 () "  PartMeasure() :" 139 0  () "  PartMeasure() :" 139]
+[ebrowse-ms "getCost" () 4 () "  unsigned int getCost()" 275 0  () "  unsigned int getCost()" 275]
+[ebrowse-ms "getDiff" () 4 () "  int getDiff()" 315 0  () "  int getDiff()" 315]
+[ebrowse-ms "setCost" () 0 () "  void setCost(unsigned" 363 0  () "  void setCost(unsigned" 363]
+[ebrowse-ms "setDiff" () 0 () "  void setDiff(int" 410 0  () "  void setDiff(int" 410]
+)
+()
+()
+()
+()
+()()
+]

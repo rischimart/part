@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Usage}{2}
+\contentsline {subsection}{\numberline {2.1}Variable names, assignments, etc.}{2}
+\contentsline {subsection}{\numberline {2.2}Keywords}{3}
+\contentsline {subsection}{\numberline {2.3}Line numbering}{4}
+\contentsline {subsection}{\numberline {2.4}Customizing the look of algorithms}{6}
+\contentsline {subsection}{\numberline {2.5}eXtreme Customisation}{8}
+\contentsline {section}{\numberline {3}Code}{9}
+\contentsline {subsection}{\numberline {3.1}Declarations for boxes, counters, and widths}{9}
+\contentsline {subsection}{\numberline {3.2}Look-and-feel commands}{10}
+\contentsline {subsection}{\numberline {3.3}Keyword commands}{12}
+\contentsline {subsection}{\numberline {3.4}The {\tt algo} environments}{13}
+\contentsline {subsection}{\numberline {3.5}The {\tt algofragment} environment}{16}
